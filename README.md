@@ -1,4 +1,4 @@
-# Apple app store-Analysis---SQL
+# Apple app store-Analysis-SQL
 Analyzing Apple app store data for a new app developer, using dataset from Kaggle.com with SQL
 
 ## About
