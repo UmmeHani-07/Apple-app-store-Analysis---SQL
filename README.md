@@ -1,5 +1,5 @@
 # Apple app store-Analysis-SQL
-Analyzing Apple app store data for a new app developer, using dataset from Kaggle.com with SQL
+Analyzing Apple app store data for a new app developer
 
 ## About
 Using SQL, analyzed the data showing the key metrics and insights so a new app developer can decide what aap to develop.
